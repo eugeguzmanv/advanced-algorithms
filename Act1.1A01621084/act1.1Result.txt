@@ -1,0 +1,18 @@
+Input: test01.txt
+Number of palindromes: 119
+Length of the longest palindrome: 9
+Starting position of the longest palindrome: 3
+Longest palindrome found: knbncnbnk
+*************************************
+Input: test02.txt
+Number of palindromes: 1172
+Length of the longest palindrome: 30
+Starting position of the longest palindrome: 264
+Longest palindrome found: kllfigfvnacaqjnnjqacanvfgifllk
+*************************************
+Input: test03.txt
+Number of palindromes: 12732
+Length of the longest palindrome: 87
+Starting position of the longest palindrome: 5173
+Longest palindrome found: ivotpgazgetkrqflzissutlamcwoxyleyjfwkafiwrslsrwifakwfjyelyxowcmaltussizlfqrktegzagptovi
+*************************************

@@ -1,0 +1,5 @@
+Diego Alberto Carrillo Castro A01645484
+Worked on: Algorithm implementation, system design, debugging.
+
+Eugenio Guzmán Vargas A01621084
+Worked on: Debugging, output formatting, test case design
